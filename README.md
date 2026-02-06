@@ -7,7 +7,7 @@ Generates a transcript and a summarized Markdown report.
 
 ## Features
 
-- Transcribe meeting audio (`.mp3`) to text.
+- Transcribe meeting audio (`meeting.mp3`) to text.
 - Summarize transcript into key topics and action items.
 - Generate Markdown report for easy reading and sharing.
 
