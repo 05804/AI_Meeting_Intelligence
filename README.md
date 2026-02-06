@@ -35,6 +35,14 @@ This project is designed to be **simple**, **free**, and **beginner-friendly**.
 ```bash
 git clone https://github.com/05804/AI_Meeting_Intelligence.git
 cd AI_Meeting_Intelligence
+## Demo
+
+### Transcription
+Input audio: `sample_meeting.mp3`
+
+## Demo
+
+### Example Transcript
 
 
 
