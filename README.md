@@ -29,6 +29,8 @@ Generates a transcript and a summarized Markdown report for easy reading and sha
 
 1. Place your meeting audio file in the project folder  
    
+   **Input audio used for demo:** `ai meeting.mp3`
+
 
 ### 1. Clone the repository
 ```bash
