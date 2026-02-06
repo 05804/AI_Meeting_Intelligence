@@ -1,3 +1,11 @@
 venv/
 __pycache__/
 *.pyc
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated outputs
+analysis.txt
+analysis.md
+transcript.txt

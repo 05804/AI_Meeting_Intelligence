@@ -1,22 +1,34 @@
-# AI Meeting Intelligence System
+\# AI Meeting Intelligence
 
-This project converts meeting audio into text and uses AI to extract:
-- Meeting summary
-- Action items
-- Decisions
 
-## Features
-- Speech to text using Whisper
-- AI analysis using OpenAI
-- Simple Python implementation
 
-## How to Run
-1. Install Python
-2. Install dependencies
-3. Run transcribe.py
-4. Run analyze.py
+Automatically transcribe and analyze meeting audio using AI.  
 
-## Tech Used
-- Python
-- OpenAI Whisper
-- GPT model
+Generates both plain text and Markdown summaries.
+
+
+
+\## Features
+
+\- Transcribe meeting audio (`.mp3`) to text
+
+\- Generate Markdown analysis with summaries
+
+\- Free, offline-friendly with Whisper AI
+
+
+
+\## Installation
+
+
+
+1\. Clone the repo:
+
+&nbsp;  ```bash
+
+&nbsp;  git clone https://github.com/05804/AI\_Meeting\_Intelligence.git
+
+&nbsp;  cd AI\_Meeting\_Intelligence
+
+
+
