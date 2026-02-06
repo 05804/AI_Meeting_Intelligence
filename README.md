@@ -7,7 +7,7 @@ Generates a transcript and a summarized Markdown report.
 
 ## Features
 
-- Transcribe meeting audio (`meeting.mp3`) to text.
+- Transcribe meeting audio (`C:\Users\shaik\OneDrive\문서\AI_Meeting_Intelligence`) to text.
 - Summarize transcript into key topics and action items.
 - Generate Markdown report for easy reading and sharing.
 
