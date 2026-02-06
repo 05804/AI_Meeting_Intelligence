@@ -24,6 +24,11 @@ Generates a transcript and a summarized Markdown report for easy reading and sha
 ![Analysis Output](screenshots/analysis.png)
 
 ## Setup
+```md
+## Usage
+
+1. Place your meeting audio file in the project folder  
+   
 
 ### 1. Clone the repository
 ```bash
