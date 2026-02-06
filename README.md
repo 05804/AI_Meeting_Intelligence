@@ -13,6 +13,15 @@ Generates a transcript and a summarized Markdown report for easy reading and sha
 - Easy-to-follow CLI workflow
 
 ---
+## Demo
+
+**Input audio:** `ai meeting.mp3`
+
+### Example Transcript
+![Transcript Output](screenshots/transcript.png)
+
+### Example Analysis
+![Analysis Output](screenshots/analysis.png)
 
 ## Setup
 
